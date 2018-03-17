@@ -15,6 +15,9 @@
   "bugs": {
     "url": "https://github.com/IsKBnitez/Busdatos/issues"
   },
-  "homepage": "https://github.com/IsKBnitez/Busdatos#readme"
+  "homepage": "https://github.com/IsKBnitez/Busdatos#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "serialport": "^6.1.1"
+  }
 }
-
