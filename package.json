@@ -1,0 +1,20 @@
+{
+  "name": "arduinobusdatos",
+  "version": "1.0.0",
+  "description": "ProyectoClasesSabado",
+  "main": "Arduino.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsKBnitez/Busdatos.git"
+  },
+  "author": "KyE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsKBnitez/Busdatos/issues"
+  },
+  "homepage": "https://github.com/IsKBnitez/Busdatos#readme"
+}
+
